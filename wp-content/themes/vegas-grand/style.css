@@ -1,0 +1,59 @@
+/*
+Theme Name: Vegas Grand
+Theme URI: https://thejema.ru/branded/vegas-grand
+Author: TheJema
+Author URI: https://shop.thejema.ru/
+Description: Брендовый шаблон
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: vegas-grand
+Release: 08.06.2020
+*/
+
+@import "/wp-content/themes/vegas-grand/assets/css/normalize.css";
+@import "/wp-content/themes/vegas-grand/assets/font/font.css";
+@import "/wp-content/themes/vegas-grand/assets/slick/slick.css";
+@import "/wp-content/themes/vegas-grand/assets/slick/slick-theme.css";
+@import "/wp-content/themes/vegas-grand/assets/css/header.css";
+@import "/wp-content/themes/vegas-grand/assets/css/home_pages.css";
+@import "/wp-content/themes/vegas-grand/assets/css/nav_menu.css";
+@import "/wp-content/themes/vegas-grand/assets/css/vegas_content.css";
+@import "/wp-content/themes/vegas-grand/assets/css/paymants.css";
+@import "/wp-content/themes/vegas-grand/assets/css/slot.css";
+@import "/wp-content/themes/vegas-grand/assets/css/news.css";
+@import "/wp-content/themes/vegas-grand/assets/css/footer.css";
+
+.sidenav li a{
+    text-transform: uppercase;
+}
+
+
+.pagination {
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+
+.pagination .page-numbers {
+    border: 1px solid #fff;
+    padding: 5px 9px;
+    border-radius: 6px;
+    color: white;
+}
+
+.loadmore {
+    width: 100%;
+    text-align: center;
+}
+
+.loadmore a {
+    background: #041020;
+    color: white;
+    padding: 7px 21px;
+    border-radius: 3px;
+    margin-top: 15px;
+    margin-bottom: 27px;
+}
+
+

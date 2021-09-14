@@ -1,0 +1,37 @@
+#vegas_content{
+	background: #041020;
+}
+.vegas_content{
+	color:#fff;
+	padding:15px 0;
+}
+.vegas_content h1{
+	font-size: 28px;
+	text-align: center;
+	font-family: 'OpenSans-Bold';
+	padding:20px 0;
+}
+.vegas_content h2{
+	font-size: 21px;
+	font-family: 'OpenSans-Bold';
+	padding:20px 0;
+}
+.vegas_content p {
+	font-size: 14px;
+	padding:15px 0;
+}
+.vegas_content ul  {
+	list-style: disc;
+	padding: 0px 35px;
+	font-size: 14px;
+}
+.vegas_content ol  {
+	list-style: decimal;
+	padding: 0px 15px;
+	font-size: 14px;
+}
+
+.vegas_content td{
+	border: 1px solid white;
+	padding: 4px;
+}
